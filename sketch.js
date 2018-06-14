@@ -11,9 +11,10 @@ function draw() {
     var c2 = random(255)
     var c3 = random(255)
     var c = color(100, c1, 100)
+    noStroke();
     fill(c);
     ellipse(mouseX, mouseY, 80, 80);
-    ellipse(50,50,50,50)
+    //ellipse(50,50,50,50)
     // ellipse(mouseX+10, mouseY, 80, 80);
     // ellipse(mouseX-10, mouseY, 80, 80);
     // ellipse(mouseX, mouseY+100, 80, 80);
