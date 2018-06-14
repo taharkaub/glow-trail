@@ -13,7 +13,7 @@ function draw() {
     var c = color(100, c1, 100)
     noStroke();
     fill(c);
-    ellipse(mouseX, mouseY, 80, 80);
+    ellipse(mouseX, mouseY, 80, 80, random(100, 255));
     //ellipse(50,50,50,50)
     // ellipse(mouseX+10, mouseY, 80, 80);
     // ellipse(mouseX-10, mouseY, 80, 80);
