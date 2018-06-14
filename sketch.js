@@ -11,7 +11,7 @@ function draw() {
     var c2 = random(255)
     var c3 = random(255)
     var a  = random(0, 255) //alpha value
-    var c = color(100, c1, 100, a)
+    var c = color(100, c1, 100, 77)
 
     noStroke();
     fill(c);
