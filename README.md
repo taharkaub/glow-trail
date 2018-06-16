@@ -1,8 +1,4 @@
-## playing with p5
+## [Glow Trail Generator](taharkaub.github.io/glow-trail)
 
-This is a sample of my work playing around with the p5 JavaScript library
-
-Try clicking and dragging and see what happens.
-
-GitHub Pages link: [taharkaub.github.io/glow-trail]
+Click and Drag to create a Glow Trail
 
